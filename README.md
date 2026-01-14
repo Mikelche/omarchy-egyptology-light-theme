@@ -16,6 +16,14 @@ Copy and paste the following command into a terminal session within Omarchy:
 omarchy-theme-install https://github.com/davidguttman/archwave
 ```
 
+## Tips
+This theme includes **22 curated backgrounds**, each drawn from the same Egypt-inspired aesthetic.
+You can cycle through them instantly using Omarchy’s built-in wallpaper switcher:
+```
+SUPER + ALT + W
+```
+Try it whenever you want a fresh view — sunrise over the Nile, desert ruins, or weathered temple stones.
+
 ## Inspirations
 This theme is inspired by (and includes) [Louis Haghe](https://en.wikipedia.org/wiki/Louis_Haghe)'s lithographs. I first encountered them while browsing a public-domain collection published by the [Cleveland Museum of Art](https://www.clevelandart.org/home) on [Unsplash](https://unsplash.com/collections/e0AVrzNGaFs/egypt-and-nubia).
 
