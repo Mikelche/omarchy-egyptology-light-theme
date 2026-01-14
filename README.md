@@ -18,10 +18,7 @@ omarchy-theme-install https://github.com/davidguttman/archwave
 
 ## Tips
 This theme includes **22 curated backgrounds**, each drawn from the same Egypt-inspired aesthetic.
-You can cycle through them instantly using Omarchy’s built-in wallpaper switcher:
-```
-SUPER + ALT + W
-```
+You can cycle through them instantly using Omarchy’s built-in wallpaper switcher: `SUPER + ALT + W`
 Try it whenever you want a fresh view — sunrise over the Nile, desert ruins, or weathered temple stones.
 
 ## Inspirations
